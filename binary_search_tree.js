@@ -8,7 +8,6 @@ class Node {
 
 class BinraySearchTree {
   constructor(data) {
-    console.log("Coming here")
     this.root = null
   }
 
